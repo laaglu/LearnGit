@@ -1,4 +1,4 @@
-package jar;
+package org.vectomatic;
 
 import java.util.Arrays;
 
