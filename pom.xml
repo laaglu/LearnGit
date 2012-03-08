@@ -37,4 +37,20 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<distributionManagement>
+		<repository>
+			<id>${vectomatic.release.id}</id>
+			<url>${vectomatic.release.url}</url>
+		</repository>
+		<snapshotRepository>
+			<id>${vectomatic.snapshots.id}</id>
+			<url>${vectomatic.snapshots.url}</url>
+		</snapshotRepository>
+		<site>
+			<id>${vectomatic.site.id}</id>
+			<url>${vectomatic.site.url}</url>
+		</site>
+	</distributionManagement>
+
 </project>
