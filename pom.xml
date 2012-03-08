@@ -16,7 +16,7 @@
 	<scm>
 		<url>scm:git:git@github.com:laaglu/LearnGit.git</url>
 		<connection>scm:git:git@github.com:laaglu/LearnGit.git</connection>
-		<developerConnection>git@github.com:laaglu/LearnGit.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:laaglu/LearnGit.git</developerConnection>
 	</scm>
 
 	<dependencies>
