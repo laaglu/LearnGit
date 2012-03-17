@@ -3,7 +3,7 @@
 
 	<groupId>org.vectomatic</groupId>
 	<artifactId>learngit</artifactId>
-	<version>1.5</version>
+	<version>1.6-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>learngit</name>
