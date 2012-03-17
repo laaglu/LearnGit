@@ -4,7 +4,7 @@
 	<groupId>org.vectomatic</groupId>
 	<artifactId>learngit</artifactId>
 	<version>1.2-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>learngit</name>
 	<url>http://maven.apache.org</url>
